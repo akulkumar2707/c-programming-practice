@@ -1,0 +1,9 @@
+*.dSYM/
+.DS_Store
+question
+questions
+01_FIRST
+02_variable
+04_size
+04_sizeof
+05_questions
