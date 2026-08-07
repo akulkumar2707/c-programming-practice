@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/akulkumar/Documents/C PROGRAM/questions'
+relocations:     []
+...
